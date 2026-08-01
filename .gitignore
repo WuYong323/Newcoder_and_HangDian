@@ -1,0 +1,22 @@
+# IDE
+.idea/
+.vscode/
+
+# Python venv（工程遗留）
+.venv/
+__pycache__/
+
+# C++ 编译产物
+*.o
+*.obj
+*.exe
+*.out
+a.out
+*.exe.stackdump
+
+# 本地临时文件
+*.in
+*.ans
+input.txt
+output.txt
+.DS_Store
